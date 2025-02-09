@@ -15,3 +15,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anessabo0421&show_icons=true&locale=en&layout=compact" alt="anessabo0421" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anessabo0421&" alt="anessabo0421" /></p>
+![snake gif](https://github.com/ANESSABO0421/ANESSABO0421/blob/output/github-snake-dark.svg)
