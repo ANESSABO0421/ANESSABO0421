@@ -15,4 +15,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anessabo0421&show_icons=true&locale=en&layout=compact" alt="anessabo0421" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anessabo0421&" alt="anessabo0421" /></p>
-![snake gif](https://github.com/ANESSABO0421/ANESSABO0421/blob/output/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANESSABO0421/ANESSABO0421/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ANESSABO0421/ANESSABO0421/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ANESSABO0421/ANESSABO0421/output/github-snake.svg" />
+</picture>
